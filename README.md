@@ -7,6 +7,7 @@ Engineering Group @ University of Nottingham Ningbo China | ML Engineer | Python
 ## Technology stack
 -Python, C++, Rust, PyTorch, Ubuntu 24.04
 ## Project
+- [original-agent](https://github.com/haoranyoung09-sys/original-agent)
 - [ci-fail-diagnose](https://github.com/haoranyoung09-sys/ci-diagnose)
   CI failed, or GitHub Actions is red? Classify the log, quote redacted evidence, propose one minimal fix, and say how to verify it. Advisory only. Not a merge decision.
 - [Things-To-Do](https://github.com/haoranyoung09-sys/Things-To-Do)
