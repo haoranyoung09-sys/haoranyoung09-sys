@@ -45,9 +45,9 @@ education = "ssyhy21@nottingham.edu.cn"
 
 | Category | Technologies |
 | :---: | :--- |
-| **Languages** | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **AI & Robotics** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) |
-| **OS & Platform** | ![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu_24.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
+| **Languages** | ![Rust](https://img.shields.io/badge/Rust-18181b?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-18181b?style=flat-square&logo=cplusplus&logoColor=659AD2) ![Python](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=3776AB) |
+| **AI & Robotics** | ![PyTorch](https://img.shields.io/badge/PyTorch-18181b?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![ROS2](https://img.shields.io/badge/ROS2-18181b?style=flat-square&logo=ros&logoColor=white) |
+| **OS & Platform** | ![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu_24.04-18181b?style=flat-square&logo=ubuntu&logoColor=E95420) |
 
 </div>
 
@@ -110,8 +110,8 @@ Feel free to reach out for tech discussions, projects, or academic collaboration
 
 <div align="center">
 
-[![Personal Email](https://img.shields.io/badge/Personal_Email-haoranyoung09%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haoranyoung09@gmail.com)
-[![Education Email](https://img.shields.io/badge/Education_Email-ssyhy21%40nottingham.edu.cn-005596?style=for-the-badge)](mailto:ssyhy21@nottingham.edu.cn)
+[![Personal Email](https://img.shields.io/badge/Personal_Email-haoranyoung09%40gmail.com-18181b?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:haoranyoung09@gmail.com)
+[![Education Email](https://img.shields.io/badge/Education_Email-ssyhy21%40nottingham.edu.cn-18181b?style=flat-square)](mailto:ssyhy21@nottingham.edu.cn)
 
 </div>
 

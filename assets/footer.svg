@@ -1,22 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 68" width="100%" role="img" aria-label="Footer">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0d1117" />
-      <stop offset="50%" stop-color="#161b22" />
-      <stop offset="100%" stop-color="#0d1117" />
-    </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f97316" stop-opacity="0.2" />
-      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#10b981" stop-opacity="0.2" />
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 52" width="100%" role="img" aria-label="Footer">
+  <style>
+    .line { stroke: #e5e7eb; }
+    .label { fill: #9ca3af; }
+    @media (prefers-color-scheme: dark) {
+      .line { stroke: #21262d; }
+      .label { fill: #6e7681; }
+    }
+  </style>
 
-  <rect x="8" y="8" width="824" height="52" rx="12" fill="url(#footerGrad)" stroke="#30363d" stroke-width="1" />
-  <line x1="28" y1="9" x2="812" y2="9" stroke="url(#lineGrad)" stroke-width="1.5" />
-
-  <text x="420" y="39" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#94a3b8">
-    <tspan fill="#10b981">silas@unnc</tspan><tspan fill="#64748b">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#64748b">$ </tspan>
-    <tspan fill="#e2e8f0">echo "Build, learn, iterate."</tspan>
+  <line class="line" x1="8" y1="12" x2="832" y2="12" stroke-width="1" />
+  <text class="label" x="420" y="38" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="1.2">
+    SILAS YANG · BUILD, LEARN, ITERATE.
   </text>
 </svg>
