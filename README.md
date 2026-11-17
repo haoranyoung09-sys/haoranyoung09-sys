@@ -90,13 +90,37 @@ education = "ssyhy21@nottingham.edu.cn"
     </tr>
     <tr>
       <td>
-        <strong>📝 <a href="https://github.com/haoranyoung09-sys/Things-To-Do">Things-To-Do</a></strong>
+        <strong>🛡️ <a href="https://github.com/haoranyoung09-sys/passguard-web-agent">passguard-web-agent</a></strong>
       </td>
       <td>
-        <code>Planning</code> <code>To-Do</code>
+        <code>Python</code> <code>Playwright</code><br />
+        <code>MCP</code> <code>Security</code>
       </td>
       <td>
-        一个用于记录个人计划与待办事项的轻量简洁项目。
+        基于 Playwright 的 AI Agent 浏览器安全代理、Skill 与 stdio MCP 服务器，以 DOM 元素引用（<code>@e1</code>、<code>@e2</code>）替代截图坐标循环，并强制实施人工登录门控、带外 OS 确认、写操作拦截与可验证审计日志。
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🎓 <a href="https://github.com/haoranyoung09-sys/course-integrity">course-integrity</a></strong>
+      </td>
+      <td>
+        <code>Coursework</code> <code>Integrity</code>
+      </td>
+      <td>
+        课程完整性与学术规范相关项目。
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🌉 <a href="https://github.com/haoranyoung09-sys/contextbridge-handoff">contextbridge-handoff</a></strong>
+      </td>
+      <td>
+        <code>Python</code> <code>CLI</code><br />
+        <code>Agent Handoff</code>
+      </td>
+      <td>
+        零运行时依赖的离线 Python CLI 工具，用于在 Codex、Claude Code 与 Cursor 之间交接项目上下文，将显式任务记录与 Git 元数据一并保存并生成可审查的交接提示词。
       </td>
     </tr>
   </tbody>

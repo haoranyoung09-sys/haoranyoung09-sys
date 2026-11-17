@@ -90,13 +90,37 @@ education = "ssyhy21@nottingham.edu.cn"
     </tr>
     <tr>
       <td>
-        <strong>📝 <a href="https://github.com/haoranyoung09-sys/Things-To-Do">Things-To-Do</a></strong>
+        <strong>🛡️ <a href="https://github.com/haoranyoung09-sys/passguard-web-agent">passguard-web-agent</a></strong>
       </td>
       <td>
-        <code>Planning</code> <code>To-Do</code>
+        <code>Python</code> <code>Playwright</code><br />
+        <code>MCP</code> <code>Security</code>
       </td>
       <td>
-        A simple project used to record plans and to-dos.
+        AI Agent Skill, local browser security proxy, and stdio MCP server built on Playwright—using DOM element refs (<code>@e1</code>, <code>@e2</code>) with human-in-the-loop auth, out-of-band OS confirmation, write interception, and verifiable audit logs.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🎓 <a href="https://github.com/haoranyoung09-sys/course-integrity">course-integrity</a></strong>
+      </td>
+      <td>
+        <code>Coursework</code> <code>Integrity</code>
+      </td>
+      <td>
+        Course integrity project.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🌉 <a href="https://github.com/haoranyoung09-sys/contextbridge-handoff">contextbridge-handoff</a></strong>
+      </td>
+      <td>
+        <code>Python</code> <code>CLI</code><br />
+        <code>Agent Handoff</code>
+      </td>
+      <td>
+        Offline, zero-dependency Python CLI for handing project context between Codex, Claude Code, and Cursor—saving explicit task notes alongside Git metadata and generating tailored handoff prompts.
       </td>
     </tr>
   </tbody>
